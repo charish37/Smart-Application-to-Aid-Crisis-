@@ -31,3 +31,11 @@ This paper explores the use of the Stochastic Pedestrian Cell Transmission Model
 ### Description
 This paper explores enhancing Emergency Evacuation Information Systems (EEIS) by integrating IoT technologies to improve emergency preparedness and response. The study highlights current system limitations, including delays, poor information dissemination, and inefficient resource allocation. By utilizing IoT devices like sensors and communication modules, real-time data collection and decision-making are improved. While IoT enhances system effectiveness, challenges such as cost, power consumption, and network coverage remain. Future work aims to explore cost-effective, energy-efficient IoT solutions and AI for predictive analysis to further optimize EEIS.
 
+## A systematic review of trustworthy artificial intelligence applications in natural disasters - https://www.sciencedirect.com/science/article/pii/S0045790624003379
+
+### keywords
+Artificial intelligenceNatural disastersExplainabilityData fusionTaxonomyTrustworthy
+
+### Description
+This paper explores the use of AI in natural disaster management, focusing on predictive models to analyze vast datasets and forecast disasters. It reviews 108 studies from reputable sources, classifying AI applications in disaster prediction, management, and risk assessment. Key techniques discussed include machine learning (ML), deep learning (DL), data fusion, explainable AI (XAI), and fuzzy logic. The study highlights challenges, ethical considerations, and biases in AI-based disaster management and provides insights to guide future research in trustworthy AI for disaster preparedness.
+
